@@ -12,8 +12,8 @@ Features
 
 Installation
 ------------
-Downloads are available for Windows and OSX
-[https://github.com/Sorroko/cclite/releases][link-to-releases]
+Downloads are available for Windows Only!
+[Download](https://github.com/Shinori12/L-Os/releases)
 
 Forking And Contribution
 ------------
@@ -35,7 +35,7 @@ NOTE: Files may be saved to `some/path/love/cclite` rather than `some/path/cclit
 
 License
 -------
-Copyright 2014 L-Os
+Copyright 2023 L-Os
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
